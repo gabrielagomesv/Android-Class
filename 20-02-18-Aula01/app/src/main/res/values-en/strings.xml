@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo_alert">First Android App</string>
+    <string name="salvar">Save</string>
+    <string name="message">This is a test</string>
+    <string name="nome">Name:</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="titulo_alert">Primeiro App Android</string>
+    <string name="salvar">Salvar</string>
+    <string name="ok">OK</string>
+    <string name="message">Isso é um teste :)</string>
+    <string name="nome">Nome:</string>
+</resources>
