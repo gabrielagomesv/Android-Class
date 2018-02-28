@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="selecione_um_estado">selecione um estado</string>
+    <string name="salvar">salvar</string>
+</resources>
