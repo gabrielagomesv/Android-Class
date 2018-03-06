@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio Incremento</string>
+    <string name="decrementa">-</string>
+    <string name="incrementa">+</string>
+    <string name="_0">0</string>
+    <string name="validacao">O valor mínimo é zero e o maior é 10</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="opcional_1">opcional_1</string>
+    <string name="opcional_2">opcional_2</string>
+    <string name="essa_a_opcional_1">essa é a opcional 1</string>
+    <string name="essa_a_opcional_2">essa é a opcional 2</string>
+</resources>
