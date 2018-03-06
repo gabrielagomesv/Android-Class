@@ -8,3 +8,7 @@
     - Componentes
 	- Componentes avançados
 	- Spinner (select)
+   - **06/03/18** 
+     - Intents
+     - Jogos de dados
+     - Exercício de Increment/Decrement
