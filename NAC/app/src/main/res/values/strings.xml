@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nac</string>
+    <string name="informe_o_material_que_deseja">Informe o material que deseja:</string>
+    <string name="piso_branco_baixo_brilho">Piso Branco Baixo Brilho</string>
+    <string name="piso_albania_45x45">Piso Albania 45x45</string>
+    <string name="porcelanato_perlato_branco">Porcelanato Perlato Branco</string>
+    <string name="revestimento_mosaico">Revestimento mosaico</string>
+    <string name="informe_a_medida_em_m">Informe a medida em m²</string>
+    <string name="ultra_frete_mega_r_pido">Ultra frete mega rápido</string>
+    <string name="calcular">Calcular</string>
+    <string name="invalido">Inválido!</string>
+    <string name="valorInicial">10</string>
+    <string name="valorFinal">0</string>
+</resources>
