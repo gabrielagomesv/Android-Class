@@ -15,5 +15,13 @@
   - **13/03/18**
     - NAC01
   - **20/03/18**
-    - 
+    - Complete, Date and Time
+	- Caixas de diálogo
+	  - AlertDialog
+	  - AlertDialog with itens
+	  - ProgressDialog
+	  - DatePicker 
+	  - TimePicker
+	  - Dialog Personalizado
+	  
    

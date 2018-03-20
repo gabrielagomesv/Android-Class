@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="alertdialog">alertDialog</string>
+    <string name="alertdialogmessage">Eu sou um AlertDialog</string>
+    <string name="funcionou">Funcionou!</string>
+    <string name="progressdialog">ProgressDialog</string>
+    <string name="ok">Ok</string>
+    <string name="alertdialogwitens">AlertDialogWItens</string>
+    <string name="alertcomitens">Alert com itens</string>
+    <string name="funciona">Funcionou</string>
+    <string name="okk">Ok</string>
+    <string name="selecionei">Selecionei \</string>
+    <string name="pd">ProgressDialog</string>
+    <string name="finalizado">Finalizado</string>
+    <string name="aguarde">Aguarde</string>
+    <string name="datepicker">datepicker</string>
+    <string name="timepicker">TimePicker</string>
+    <string name="okkkk">Ok</string>
+    <string name="personalizado">Personalizado</string>
+    <string name="dialogpersonalizado">DialogPersonalizado</string>
+</resources>
