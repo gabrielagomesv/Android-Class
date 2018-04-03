@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pesistencia SQLite</string>
+    <string name="digite_o_nome_do_contato">Digite o nome do contato</string>
+    <string name="salvar">salvar</string>
+    <string name="novo_contato">Novo contato</string>
+    <string name="salvoOContato">Contato salvo com sucesso!</string>
+</resources>
