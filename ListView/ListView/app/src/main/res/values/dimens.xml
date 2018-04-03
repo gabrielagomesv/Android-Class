@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimensionDefault">16dp</dimen>
+    <dimen name="imgDimension">64dp</dimen>
+    <dimen name="textDimension">18sp</dimen>
+    <dimen name="BottomMargin">8dp</dimen>
+</resources>

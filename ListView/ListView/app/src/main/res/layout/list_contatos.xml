@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/dimensionDefault"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:layout_width="@dimen/imgDimension"
+        android:layout_height="@dimen/imgDimension"
+        android:id="@+id/imgContato"
+        tools:src= "@drawable/p1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textNome"
+        tools:text="Maria"
+        android:layout_toRightOf="@id/imgContato"
+        android:layout_marginLeft="@dimen/dimensionDefault"
+        android:layout_marginRight="@dimen/dimensionDefault"
+        android:textSize="@dimen/textDimension"
+        android:textStyle="bold"
+        style="@style/TextoContato"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="11 3453453"
+        android:id="@+id/telefone"
+        android:layout_toRightOf="@id/imgContato"
+        style="@style/TextoContato"
+        android:layout_alignBottom="@id/imgContato"
+        android:layout_marginBottom="@dimen/BottomMargin"/>
+
+</RelativeLayout>
