@@ -17,6 +17,10 @@
    - **03/04/18**
      - ListView
    - **10/04/18** 
-	 - ActionBar
-	 - Menu
-	 - Toolbar
+	   - ActionBar
+	   - Menu
+	   - Toolbar
+     - Fragments
+
+   - **17/04/18**
+     - AsynkTask
