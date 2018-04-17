@@ -24,3 +24,5 @@
 
    - **17/04/18**
      - AsynkTask
+     - Broadcast Receiver 
+     - Notification
