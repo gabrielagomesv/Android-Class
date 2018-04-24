@@ -28,4 +28,5 @@
      - Notification
 
     - **24/04/18**
-     - NavigationDrawer 
+      - NavigationDrawer 
+      - Listagem com RecyclerView
