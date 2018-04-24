@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">NavigationDrawer</string>
+    <string name="sobre">Sobre</string>
+    <string name="sair">Sair</string>
+    <string name="abrir">Abrir</string>
+    <string name="fechar">Fechar</string>
+    <string name="clicou_em_sobre">Clicou em sobre</string>
 </resources>
