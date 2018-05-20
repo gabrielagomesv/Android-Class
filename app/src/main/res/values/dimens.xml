@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_dimension">180dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="icon_dimension">55dp</dimen>
+</resources>
