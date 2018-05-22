@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/default_dimension"
+        android:background="@color/light_gray"
+        xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimension_140dp"
+            android:src="@drawable/h1"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/burger1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_default"
+            android:text="@string/x_salada"
+            android:textColor="@color/dark_grey"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/nomeBurger1"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:id="@+id/acessarInfo1"
+            android:layout_marginBottom="@dimen/margin_bottom_dim"
+            android:text="@string/ver_mais"
+            android:onClick="verMais1"
+            android:padding="@dimen/default_dimension"/>
+
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/select1"
+            android:text="@string/selecionar_x_salada"/>
+
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimension_140dp"
+            android:src="@drawable/h2"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/burguer2"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_default"
+            android:text="@string/cheese_egg"
+            android:textColor="@color/dark_grey"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/nomeBurger2"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:id="@+id/acessarInfo2"
+            android:layout_marginBottom="@dimen/margin_bottom_dim"
+            android:text="@string/ver_mais"
+            android:onClick="verMais2"
+            android:padding="@dimen/default_dimension"/>
+
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/select2"
+            android:text="@string/selecionar_cheese_egg"/>
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimension_140dp"
+            android:src="@drawable/h3"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/burguer3"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_default"
+            android:text="@string/americano"
+            android:textColor="@color/dark_grey"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/nomeBurger3"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:id="@+id/acessarInfo3"
+            android:layout_marginBottom="@dimen/margin_bottom_dim"
+            android:text="@string/ver_mais"
+            android:onClick="verMais3"
+            android:padding="@dimen/default_dimension"/>
+
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/select3"
+            android:text="@string/americano_select"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:textSize="@dimen/prices"
+            android:textStyle="bold"
+            android:textColor="@color/RED"
+            android:layout_margin="@dimen/default_dimension"
+            android:id="@+id/resultadoFinal"
+            android:paddingTop="25dp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/comprar"
+            android:onClick="comprar"/>
+
+    </LinearLayout>
+</ScrollView>
+
+

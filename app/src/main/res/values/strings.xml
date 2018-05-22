@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NAC02</string>
+    <string name="ver_mais">Ver mais</string>
+    <string name="x_salada">X-Salada</string>
+    <string name="cheese_egg">Cheese Egg</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="tomate_p_o_com_gergilim_queijo_alface_cebola_e_cheddar">Tomate, pão com gergilim, queijo, alface, cebola e cheddar.</string>
+    <string name="r_30_00">R$30,00</string>
+    <string name="ovo_queijo_mussarela_cheddar_p_o_integral_e_alface">Ovo, queijo mussarela, cheddar, pão integral e alface.</string>
+    <string name="r_32_90">R$32,90</string>
+    <string name="americano">Americano</string>
+    <string name="cebola_caramelizada_p_o_australiano_4_tipos_de_queijo_alface_molho_especial_e_maionese">Cebola caramelizada, pão australiano, 4 tipos de queijo, alface, molho especial e maionese.</string>
+    <string name="r_45_00">R$45,00</string>
+    <string name="selecionar_x_salada">Selecionar X-salada</string>
+    <string name="selecionar_cheese_egg">Selecionar Cheese Egg</string>
+    <string name="americano_select">Selecionar Americano</string>
+    <string name="lanches_selecionados">Lanches selecionados</string>
+    <string name="comprar">Comprar</string>
+</resources>
